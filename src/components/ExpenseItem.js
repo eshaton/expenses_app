@@ -11,7 +11,7 @@ u nazivu funkcije trazimo samo jedan argument. atribut props vraca key:value vri
             <ExpenseDate date={props.date} />
             <div className="expense-item__description">
                 <h2>{props.title}</h2>
-                <div className="expense-item__price">{props.amount}Kn</div>
+                <div className="expense-item__price">{props.amount} Kn</div>
             </div>
         </div>
     );

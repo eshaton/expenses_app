@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a2df606-eaaa-45d7-892a-990b929e6df6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseDate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExpenseDate.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExpenseDate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExpenseDate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExpenseItem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -80,6 +81,7 @@
       <workItem from="1646508487739" duration="338000" />
       <workItem from="1646546958981" duration="4976000" />
       <workItem from="1646554495977" duration="8707000" />
+      <workItem from="1646637892955" duration="5757000" />
     </task>
     <servers />
   </component>

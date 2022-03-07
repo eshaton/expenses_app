@@ -1,16 +1,17 @@
+import './ExpenseDate.css'
 
 function ExpenseDate(props)
 {
     const month = props.date.toLocaleString('hr-HR', {month: 'long'});
     const year = props.date.toLocaleString('hr-HR', {year: 'numeric'});
-    const day = props.date.toLocaleString('hr-HR', {day: 'numeric'});
+    const day = props.date.getFullYear();
 
     return
     (
-        <div>
-            <div>{day}</div>
-            <div>{month}</div>
-            <div>{year}</div>
+        <div className="expense-date">
+            <div className="expense-date__day">{day}</div>
+            <div className="expense-date__month">{month}</div>
+            <div className="expense-date__year">{year}</div>
         </div>
     );
 }
